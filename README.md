@@ -9,3 +9,7 @@ The primary goal of this project is to employ reinforcement learning algorithms,
 - TensorFlow and Keras
 - Traffic Control Interface (traci)
 - sumolib  
+
+## Models
+- Q-Learning
+- Deep Q-Learning  
