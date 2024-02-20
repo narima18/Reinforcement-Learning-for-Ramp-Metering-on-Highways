@@ -13,3 +13,6 @@ The primary goal of this project is to employ reinforcement learning algorithms,
 ## Models
 - Q-Learning
 - Deep Q-Learning  
+
+Recommendations
+Future work may involve exploring more advanced RL techniques, incorporating additional parameters into the state space, and considering real-world implementations. Collaboration with traffic engineering experts and urban planners could enhance the practical applicability of the developed model.
